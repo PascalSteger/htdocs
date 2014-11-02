@@ -1,10 +1,10 @@
 body {
        background-color:black;
-       color:white;
-       text-shadow: black 0.1em 0.1em 0.2em;
+       color:black;
+       text-shadow: white 0.1em 0.1em 0.2em;
        font-weight:bold;
        font-family:"Arial",sans-serif;
-       font-size:100%;
+       font-size:150%;
        margin:0px 0px 0px 0px;
        }
 
@@ -70,21 +70,21 @@ H1 {
 
 A:link {
          text-decoration: none;
-         color:white;
+         color:#006;
          }
 A:active {
            text-decoration: none;
-           color:white;
+           color:#006;
            }
 A:visited {
             text-decoration: none;
-            color:white;
+            color:#003;
             }
 
 .image{
         position:relative;
         color:white;
-        text-shadow: black 0.1em 0.1em 0.5em;
+        text-shadow: white 0.1em 0.1em 0.5em;
         text-align:center;
         float:left;
         margin:1%;
@@ -93,7 +93,7 @@ A:visited {
 .imageright{
         position:relative;
         color:white;
-        text-shadow: black 0.1em 0.1em 0.2em;
+        text-shadow: white 0.1em 0.1em 0.2em;
         text-align:center;
         float:right;
         margin:1%;
@@ -108,7 +108,7 @@ A:visited {
 .pic{
       position:relative;
       color:white;
-      text-shadow: black 0.1em 0.1em 0.2em;
+      text-shadow: white 0.1em 0.1em 0.2em;
       text-align:center;
       float:left;
       width:40%;

@@ -59,16 +59,16 @@
   </p>
   <ul>
     <li>
-      <a href="https://github.com/PascalSteger/darcoda/gravlite">GravLite</a>, a non-parametric mass-modelling tool for spherical systems
+      <a href="https://github.com/PascalSteger/darcoda/tree/sphere/gravlite">GravLite</a>, a non-parametric mass-modelling tool for spherical systems
     </li>
     <li>
-      <a href="https://github.com/PascalSteger/darcoda/neccheck">Ramses NEC</a>, a patch for the cosmological simulation software package <a href="https://bitbucket.org/rteyssie/ramses">Ramses</a>
+      <a href="https://github.com/PascalSteger/darcoda/tree/sphere/neccheck">Ramses NEC</a>, a patch for the cosmological simulation software package <a href="https://bitbucket.org/rteyssie/ramses">Ramses</a>
     </li>
     <li>
-      <a href="https://github.com/PascalSteger/darcoda/amateur">AMATEUR</a>, an analysis package for SPH simulations based on the Amiga Halo Finder
+      <a href="https://github.com/PascalSteger/darcoda/tree/sphere/amateur">AMATEUR</a>, an analysis package for SPH simulations based on the Amiga Halo Finder
     </li>
     <li>
-      <a href="https://github.com/PascalSteger/darcoda/twiddle">twiddle</a>, a Ramses simulation analysis framework based on MySQL RDB
+      <a href="https://github.com/PascalSteger/darcoda/tree/sphere/twiddle">twiddle</a>, a Ramses simulation analysis framework based on MySQL RDB
     </li>
   </ul>
 </div>
