@@ -2,7 +2,7 @@
   <div class="w90">
     <hr />
   </div>
-  
+
   <div class="centeredmenu">
     <div class="left">
       <a class="image" href="http://<?php echo $_SERVER["SERVER_ADDR"]?>/facts/">
@@ -11,10 +11,10 @@
           Facts
         </span>
       </a>
-	  <a class="image" href="http://<?php echo $_SERVER["SERVER_ADDR"]?>/projects/">
-        <img src="http://<?php echo $_SERVER["SERVER_ADDR"]?>/src/button_projects.png" alt="Pascal Steger Projects"/>
+	  <a class="image" href="http://<?php echo $_SERVER["SERVER_ADDR"]?>/research/">
+        <img src="http://<?php echo $_SERVER["SERVER_ADDR"]?>/src/button_research.png" alt="Pascal Steger Research"/>
         <span class="label">
-          Projects
+          Research
         </span>
       </a>
     </div>
@@ -26,10 +26,10 @@
           Contact
         </span>
       </a>
-      <a class="imageright" href="http://<?php echo $_SERVER["SERVER_ADDR"]?>/portfolio/">
-        <img src="http://<?php echo $_SERVER["SERVER_ADDR"]?>/src/portfolio.jpg" height="90px" alt="Portfolio Pascal Steger"/>
+      <a class="imageright" href="http://<?php echo $_SERVER["SERVER_ADDR"]?>/projects/">
+        <img src="http://<?php echo $_SERVER["SERVER_ADDR"]?>/src/button_projects.jpg" height="90px" alt="Projects Pascal Steger"/>
         <span class="label">
-          Portfolio
+          Projects
         </span>
       </a>
 
@@ -40,7 +40,7 @@
           Pascal Steger
         </a>
       </h1>
-      creative coder, curious mind
+      curious mind, creative coder
     </div>
   </div>
 </div>
