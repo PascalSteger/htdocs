@@ -36,9 +36,7 @@
     </div>
     <div class="title">
       <h1>
-        <a href="http://<?php echo $_SERVER["SERVER_ADDR"]?>/index.php">
           Pascal Steger
-        </a>
       </h1>
       curious mind, creative coder
     </div>
